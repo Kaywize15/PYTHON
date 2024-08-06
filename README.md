@@ -3,23 +3,23 @@
 
 
 # PROBLEM STATEMENT
-#This Python Dashboard visualization helps to analyze the Crash/Accident details in some part of the United State of America (USA). This Data gives a thorough research about the crash calamities in the State resulting from different Road Users at different occassions and days. Using some parameters to calculate and visualize the charts, the Chart talks about various methods in which accident occurs.
+This Python Dashboard visualization helps to analyze the Crash/Accident details in some part of the United State of America (USA). This Data gives a thorough research about the crash calamities in the State resulting from different Road Users at different occassions and days. Using some parameters to calculate and visualize the charts, the Chart talks about various methods in which accident occurs.
 
 
 
 # TASK GIVEN
 
-#Total number of accident for each day
+Total number of accident for each day
 
-#Average speed for each Road user
+Average speed for each Road user
 
-#Total number of accident for each Road user
+Total number of accident for each Road user
 
-#Total number of accident for Gender
+Total number of accident for Gender
 
-#Average age for each Road user
+Average age for each Road user
 
-#Total number of accident for each day of week
+Total number of accident for each day of week
 
 
 
